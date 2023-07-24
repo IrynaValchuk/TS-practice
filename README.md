@@ -1,1 +1,1 @@
-# TS-practice
+# ts-practice
